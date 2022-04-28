@@ -6,7 +6,7 @@ lang: en
 permalink: /about-us.html
 ---
 
-We are Information Technology (IT) strategy team under Strategy, Architecture and Business Relations Directorate (SABR), Innovation, Information and Technology Branch (IITB), Employment and Social Development  Canada (ESDC) Department.
+We are Information Technology (IT) strategy management office under Strategy, Architecture and Business Relations Directorate (SABR), Innovation, Information and Technology Branch (IITB), Employment and Social Development  Canada (ESDC) Department.
 Our team is passionate about working in the open and strongly believe the GC is better when work is visible and can be reused across groups, branches and departments.
 We also strongly advocate for the use of open source software and DevOps.
 Contributing to work in the open is framing our learning experience and exposing our work to not keeping it in a silo.
