@@ -67,4 +67,4 @@ Restez à l’affût pour la deuxième opportunité !
 
 [^1]: Site Web des micro-acquisitions [https://micro-acquisition.alpha.canada.ca/fr/index.html](https://micro-acquisition.alpha.canada.ca/fr/index.html)
 [^2]: Première opportunité de micro-acquisition [https://micro-acquisition.alpha.canada.ca/2021/06/23/elaboration-de-politiques-personnalisees-pour-azure-marketplace.html](https://micro-acquisition.alpha.canada.ca/2021/06/23/elaboration-de-politiques-personnalisees-pour-azure-marketplace.html)
-[^3]: Compte Twitter des micro-acquisitions [https://twitter.com/MicroAchatsGC](https://twitter.com/MicroAchatsGC)
+[^3]: Compte Twitter des micro-acquisitions [https://twitter.com/MicroAchatsGC](https://twitter.com/MicroAchatsGc)
