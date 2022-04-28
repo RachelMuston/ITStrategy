@@ -275,8 +275,8 @@ Activities include Brainstorming sessions :
 - Linkedin
 - [GCDevopsLeague](https://twitter.com/GCDevOpsLeague1) Twitter
 - [ESDC CIO](https://twitter.com/PWLittlefield) Twitter
-- [SABR DGO](https://twitter.com/SkinnerDenis) Twitter
-- [ESDC Innovation Lab](https://twitter.com/ESDCInnoLab_ENG) Twitter
+- [SABR DGO](https://twitter.com/Skinnerdenis) Twitter
+- [ESDC Innovation Lab](https://twitter.com/EsdcInnoLab_ENG) Twitter
 - [ESDC Innovation Network](https://gccollab.ca/groups/profile/2851590/enesdc-innovation-networkfr)
 Innovation Network is a consultative body that provides a forum to share, discuss, develop and advance innovative projects and initiatives within the department. The Network seeks to share information on ongoing innovative projects and identify opportunities for advancing innovation within the department.
 
